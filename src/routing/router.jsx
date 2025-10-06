@@ -3,10 +3,10 @@ import {createBrowserRouter} from 'react-router-dom'
 import MainLayout from '../layouts/MainLayout'
 import Home from "../pages/Home"
 import InfoPage from "../pages/InfoPage"
-import NotFound from "../pages/NotFound"
 import MainHome from '../pages/MainHome'
 import CreateEvent from '../features/CreateEvent'
 import EnrollParticipant from '../features/EnrollParticipant'
+import ErrorBoundary from '../pages/ErroryBoundary'
 
 
 export const router=createBrowserRouter([
@@ -44,7 +44,7 @@ export const router=createBrowserRouter([
             },
             {
                 path: "*",
-                element: <NotFound />
+                element: <ErrorBoundary />
             }
         ]
 }
