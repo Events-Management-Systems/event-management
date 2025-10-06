@@ -1,7 +1,7 @@
 export default function Footer(){
     return(
         <>
-            <h1>This is Footer Component</h1>
+            <h1>copyright@2025 All rights reserved</h1>
         </>
     )
 }

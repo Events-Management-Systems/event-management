@@ -11,7 +11,7 @@ export default function MainLayout() {
             </header>
 
             {/* Main content area (important for SEO crawlers) */}
-            <main id="main-content" className="flex-grow p-6">
+            <main id="main-content" className="flex-grow pt-6">
                 <Outlet /> {/* Route-level pages will render here */}
             </main>
 
