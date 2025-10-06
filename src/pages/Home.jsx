@@ -15,20 +15,21 @@ export default function Home() {
   const filteredEvents = eventList.filter((e) =>
     e.title?.toLowerCase().includes(search.toLowerCase())
   );
-  // console.log(eventList)
 
   return (
-    <div className="min-h-screen bg-gray-50 p-6">
+    <div className="min-h-screen bg-gray-50 p-6 pt-20">
+      {/* ↑ Added pt-20 to prevent overlap with fixed navbar */}
+      
       <h1 className="text-3xl font-bold text-center mb-6">
         Event Management System
       </h1>
 
       {/* Search + Create */}
-      <div className="flex justify-center items-center mb-6 gap-6">
+      <div className="flex justify-center items-center mb-6 gap-6 flex-wrap">
         <input
           type="text"
           placeholder="Search events..."
-          className="border p-2 rounded w-1/2"
+          className="border p-2 rounded w-full sm:w-1/2"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
         />

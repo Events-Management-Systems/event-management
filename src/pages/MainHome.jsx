@@ -2,8 +2,9 @@ import { useNavigate } from "react-router-dom";
 
 export default function MainHome() {
   const navigate = useNavigate();
+
   return (
-    <div className="h-screen flex flex-col justify-center items-center bg-gradient-to-b from-blue-50 to-white px-4 text-center">
+    <div className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-b from-blue-50 to-white px-4 text-center pt-16">
       <h1 className="text-5xl sm:text-6xl font-bold text-blue-700 mb-6 drop-shadow-lg">
         Event Manager
       </h1>
@@ -20,7 +21,6 @@ export default function MainHome() {
       </p>
 
       <div className="flex flex-col sm:flex-row gap-6">
-        {/* Event Management Button */}
         <button
           onClick={() => navigate("/events")}
           className="bg-blue-600 text-white px-8 py-4 rounded-lg font-semibold shadow-lg hover:bg-blue-700 transition-transform transform hover:scale-105"
@@ -28,7 +28,6 @@ export default function MainHome() {
           Events List
         </button>
 
-        {/* Create Event Button */}
         <button
           onClick={() => navigate("/create-event")}
           className="bg-green-600 text-white px-8 py-4 rounded-lg font-semibold shadow-lg hover:bg-green-700 transition-transform transform hover:scale-105"
