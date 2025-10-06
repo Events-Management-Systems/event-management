@@ -38,6 +38,12 @@ export default function Home() {
         >
           Create Event
         </button>
+        <button
+          onClick={() => navigate("/participants")}
+          className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-indigo-700"
+        >
+          Participants List
+        </button>
         {/* Enroll button removed */}
       </div>
 

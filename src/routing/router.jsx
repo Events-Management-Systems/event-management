@@ -7,6 +7,7 @@ import MainHome from '../pages/MainHome'
 import CreateEvent from '../features/CreateEvent'
 import EnrollParticipant from '../features/EnrollParticipant'
 import ErrorBoundary from '../pages/ErroryBoundary'
+import ParticipantsList from '../pages/ParticipantsList'
 
 
 export const router=createBrowserRouter([
@@ -37,6 +38,10 @@ export const router=createBrowserRouter([
             {
                 path: "enroll-participant/:id",
                 element: <EnrollParticipant />
+            },
+            {
+                path: "participants",
+                element: <ParticipantsList />
             },
             {
                 path: "info/:id",
