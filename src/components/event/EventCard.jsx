@@ -26,7 +26,10 @@ export default function EventCard({ event }) {
         >
           Info
         </button>
-        <button className="bg-indigo-600 text-white px-3 py-1 rounded hover:bg-indigo-700">
+        <button
+          onClick={() => navigate('/enroll-participant')}
+          className="bg-indigo-600 text-white px-3 py-1 rounded hover:bg-indigo-700"
+        >
           Enroll
         </button>
       </div>

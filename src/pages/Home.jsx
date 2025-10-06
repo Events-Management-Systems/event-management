@@ -33,11 +33,12 @@ export default function Home() {
           onChange={(e) => setSearch(e.target.value)}
         />
         <button
-          onClick={() => navigate("/create")}
+          onClick={() => navigate("/create-event")}
           className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700"
         >
           Create Event
         </button>
+        {/* Enroll button removed */}
       </div>
 
       {/* Cards Grid */}
