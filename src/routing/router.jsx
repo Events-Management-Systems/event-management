@@ -35,7 +35,7 @@ export const router=createBrowserRouter([
             },
 
             {
-                path: "enroll-participant",
+                path: "enroll-participant/:id",
                 element: <EnrollParticipant />
             },
             {

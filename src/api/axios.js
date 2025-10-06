@@ -27,4 +27,9 @@ export class events{
   static getEventById(id) {
     return axios.get(`${this.SERVER_URL}/events/${id}`);
   }
+
+  // Update event (partial update) - used to add participants
+  static updateEvent(id, data) {
+    return axios.patch(`${this.SERVER_URL}/events/${id}`, data);
+  }
 }
