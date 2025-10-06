@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Classical Music Night",
       "date": "2025-10-01",
       "venue": "Grand Auditorium",
@@ -12,7 +12,7 @@
       "description2": "This classical music night promises an evening of elegance and emotional depth. Skilled performers will deliver interpretations that capture the essence of the compositions. The program will include both familiar favorites and rare masterpieces, ensuring variety and excitement. Guests will enjoy the ambiance created by the combination of music, lighting, and venue design. Attendees will witness the precision and passion of live musicianship up close. The event offers an educational experience, deepening understanding of musical techniques and history. Participants are encouraged to appreciate the subtle nuances of each performance. This is an opportunity to celebrate the legacy of classical music while supporting emerging artists. Social interaction and shared appreciation will enhance the communal experience. An unforgettable evening awaits all who attend this celebration of musical artistry."
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Street Art Festival",
       "date": "2025-10-03",
       "venue": "City Center Park",
@@ -23,7 +23,7 @@
       "description2": "Street art transforms the city into an open-air gallery during this exciting festival. Attendees can witness the process of artistic creation firsthand and interact with the artists. The event highlights diverse styles, from classic graffiti to contemporary mural techniques. A lively schedule of performances, music, and workshops ensures an immersive cultural experience. Participants will learn about art history, techniques, and the messages conveyed through street art. The festival encourages dialogue, creativity, and collaboration among attendees. Children and adults alike can participate in family-friendly art activities. The event showcases the power of public art in inspiring community pride and engagement. Refreshments, entertainment, and creative spaces make the festival enjoyable for everyone. Celebrate the vibrancy and innovation of urban art with fellow art lovers in a lively, welcoming environment."
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Tech Conference",
       "date": "2025-10-05",
       "venue": "City Theatre Hall",
@@ -34,7 +34,7 @@
       "description2": "The Tech Conference brings together innovators, professionals, and enthusiasts in an engaging and educational environment. Attendees will explore the latest developments in technology and how they shape industries. Expert speakers will share insights, case studies, and success stories to inspire new ideas. Workshops and interactive sessions allow participants to develop practical skills in emerging technologies. Networking sessions facilitate meaningful connections with peers, mentors, and potential collaborators. The conference highlights innovative projects, startups, and research breakthroughs. Attendees will gain a broader understanding of how technology impacts society and business. Opportunities for Q&A and discussion encourage knowledge exchange and curiosity. The event fosters creativity, problem-solving, and technological exploration. Experience a comprehensive journey through innovation, learning, and networking in a single day."
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "AI & Machine Learning Workshop",
       "date": "2025-10-07",
       "venue": "Tech Innovation Lab",
@@ -45,7 +45,7 @@
       "description2": "Learn the latest trends and tools in Artificial Intelligence and Machine Learning during this comprehensive workshop. The program includes coding exercises, algorithm design, and hands-on model training. Attendees will gain insights into real-world applications of AI in industries like healthcare, finance, and technology. Interactive sessions encourage questions, discussion, and collaborative problem-solving. Participants will understand the ethical considerations and responsible use of AI technology. Resources, tutorials, and example datasets will be provided for practical learning. Networking with peers and mentors creates opportunities for future collaborations. Participants will develop confidence in implementing AI solutions and analyzing data effectively. The workshop aims to inspire innovation, creativity, and skill-building in the AI field. Enhance your technical expertise and prepare for a future in cutting-edge technology."
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "Movie Screening",
       "date": "2025-10-10",
       "venue": "University Expo Hall",
@@ -56,7 +56,7 @@
       "description2": "Experience a special movie screening event that celebrates creativity, storytelling, and entertainment. The program includes films from emerging filmmakers as well as popular selections. Attendees will gain insight into the production, direction, and narrative elements behind each film. Interactive sessions and discussions allow participants to share opinions and deepen understanding. The event encourages networking among students, film enthusiasts, and industry professionals. Comfortable facilities, excellent sound, and visual quality ensure a memorable viewing experience. Attendees will learn about the challenges and successes in filmmaking. Fun and engaging activities related to the movies will be organized for all participants. The event highlights the power of cinema to inspire, educate, and entertain. Come watch, discuss, and celebrate the art of film with a passionate community."
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Startup Pitch Competition",
       "date": "2025-10-12",
       "venue": "Innovation Hub",
@@ -67,7 +67,7 @@
       "description2": "This startup pitch competition offers a platform for innovators to present their ideas to industry experts and potential investors. Participants gain experience in public speaking, pitching, and business planning. The event fosters networking and mentorship opportunities with professionals and peers. Attendees can learn about startup strategies, market research, and scaling solutions. Presenters showcase prototypes, services, or products to highlight feasibility and impact. Feedback sessions help refine ideas and enhance entrepreneurial skills. The competition celebrates creativity, innovation, and problem-solving. Participants have the chance to gain recognition, funding, and guidance for future growth. The event encourages collaboration, learning, and exploration of business opportunities. Celebrate the spirit of entrepreneurship and witness the next generation of business leaders."
     },
     {
-      "id": 7,
+      "id": "7",
       "title": "Intercollegiate Football Tournament",
       "date": "2025-10-15",
       "venue": "City Sports Ground",
@@ -78,7 +78,7 @@
       "description2": "This intercollegiate football tournament brings together talented athletes for a series of competitive matches. Teams will face off in a structured league, demonstrating strategy, skill, and teamwork. The tournament encourages physical fitness, discipline, and dedication to sport. Coaches, referees, and volunteers ensure fair play and safety throughout the matches. Spectators can enjoy live commentary, cheering sections, and interactive fan zones. Awards and recognition will celebrate top performers, teamwork, and sportsmanship. The event fosters connections between colleges, students, and sports enthusiasts. Players will gain experience, confidence, and motivation to excel. Fun activities and refreshments add to the overall festive atmosphere. Come witness the thrill of competitive football and community engagement in action."
     },
     {
-      "id": 8,
+      "id": "8",
       "title": "Yoga & Wellness Camp",
       "date": "2025-10-17",
       "venue": "Riverside Park",
@@ -89,7 +89,7 @@
       "description2": "This yoga and wellness camp offers a holistic approach to health, fitness, and mindfulness. Sessions include yoga, meditation, breathing exercises, and wellness talks. Participants will learn techniques to reduce stress, improve flexibility, and maintain balance in daily life. Expert instructors will provide guidance tailored to individual needs and skill levels. The program encourages reflection, self-care, and mental clarity. Interactive workshops and group activities enhance learning and engagement. The serene riverside environment promotes relaxation and focus. Attendees will gain practical tools to incorporate wellness into their routines. The event also encourages social interaction and community building. Experience a morning of calm, rejuvenation, and holistic health benefits."
     },
     {
-      "id": 9,
+      "id": "9",
       "title": "Cyclothon for Health",
       "date": "2025-10-20",
       "venue": "City Central Streets",
@@ -100,7 +100,7 @@
       "description2": "Experience a morning of fitness and fun in the city’s largest cyclothon for health. This event is designed to encourage healthy lifestyles and outdoor activity for people of all ages. Riders will enjoy a well-marked route featuring scenic landmarks and safe cycling paths. Along the way, volunteers and staff will provide assistance, ensuring a smooth experience for all participants. Music, energy boosters, and camaraderie will create a motivating and enjoyable environment. Individuals and teams can compete, celebrate, and share the joy of cycling together. The event also aims to raise awareness about the importance of regular exercise and active living. Participants will receive certificates and memorabilia to commemorate their efforts. Families are encouraged to join, making it a perfect community activity. Come cycle, connect, and celebrate health with us."
     },
     {
-      "id": 10,
+      "id": "10",
       "title": "DJ Night: Beats & Bass",
       "date": "2025-10-22",
       "venue": "Skyline Club",
@@ -111,7 +111,7 @@
       "description2": "Experience an unforgettable night of music, rhythm, and energy at DJ Night: Beats & Bass. Talented DJs will play a mix of electronic, house, and popular tracks for an electrifying experience. The event features dynamic lighting, visuals, and special effects to create a party atmosphere. Attendees can socialize and enjoy interactive experiences on the dance floor. High-quality sound systems will provide clear and powerful audio for every track. Refreshments and beverages will keep guests energized throughout the night. The night offers a safe and controlled environment for enjoying music and entertainment. Participants will experience a sense of community and shared enjoyment. Dance, move, and let the music take over in a night full of excitement. Celebrate music, friends, and nightlife with an unforgettable performance. "
     },
     {
-      "id": 11,
+      "id": "11",
       "title": "Food Carnival 2025",
       "date": "2025-10-24",
       "venue": "City Square",
@@ -122,7 +122,7 @@
       "description2": "Food Carnival 2025 invites everyone to indulge in a vibrant culinary celebration. Attendees will sample dishes from different regions, including fusion and traditional specialties. Expert chefs will provide live cooking demonstrations and share professional insights. Interactive activities allow participants to engage directly with food preparation and presentation. Games, competitions, and workshops create an engaging and educational experience. Families and friends can enjoy entertainment, music, and cultural performances alongside delicious food. The event fosters appreciation for culinary arts and inspires new cooking ideas. Local vendors will offer artisanal products and specialty ingredients. Attendees can interact with chefs, ask questions, and gain culinary knowledge. Celebrate flavors, creativity, and community at this exciting food festival."
     },
     {
-      "id": 12,
+      "id": "12",
       "title": "Fashion Show: Trends of Tomorrow",
       "date": "2025-10-26",
       "venue": "Grand Ballroom",
@@ -133,7 +133,7 @@
       "description2": "The Fashion Show: Trends of Tomorrow presents an exciting showcase of upcoming fashion statements. Attendees will explore bold designs, unique concepts, and cutting-edge styles. The runway highlights how designers interpret trends, fabrics, and functionality. Live music, dynamic lighting, and stage effects create a captivating atmosphere. Attendees can interact with designers, models, and fashion experts to learn about inspirations and techniques. The event promotes creativity, networking, and professional growth within the fashion industry. Participants can gain knowledge about sustainable practices, styling, and trends. Media and photography opportunities provide exposure for designers and models. Families, students, and fashion lovers will enjoy the vibrant spectacle. Celebrate fashion, innovation, and artistic excellence in this glamorous event."
     },
     {
-      "id": 13,
+      "id": "13",
       "title": "Blood Donation Drive",
       "date": "2025-10-28",
       "venue": "Community Health Center",
@@ -144,7 +144,7 @@
       "description2": "The Blood Donation Drive invites community members to give the gift of life. Attendees will experience a well-organized and supportive environment during donation. Medical professionals will ensure donors’ safety and comfort throughout the process. Informational sessions will provide guidance on maintaining health and understanding donation procedures. Participants can learn about the importance of blood donation in emergencies and regular healthcare. Refreshments and certificates of appreciation will be provided to all donors. The event fosters community engagement, responsibility, and awareness about public health. Volunteers and staff will facilitate smooth operations and encourage participation. The drive is open to eligible donors of all ages and backgrounds. Make a meaningful contribution and help save lives through this vital initiative."
     },
     {
-      "id": 14,
+      "id": "14",
       "title": "Clean City Awareness Walk",
       "date": "2025-10-30",
       "venue": "Main Street",
@@ -155,7 +155,7 @@
       "description2": "Clean City Awareness Walk encourages participants to take an active role in environmental preservation. The walk combines education, fun activities, and community engagement. Attendees will learn practical tips for reducing pollution, conserving resources, and protecting nature. Volunteers will guide discussions, organize competitions, and distribute awareness materials. Families, students, and local residents can participate and make a visible impact in their neighborhood. The event fosters a sense of civic duty, teamwork, and environmental stewardship. Attendees will experience the satisfaction of contributing to a cleaner city. Social interaction and group activities enhance the overall experience. The initiative aims to inspire sustainable habits that continue beyond the event. Join us to walk, learn, and lead by example for a healthier city. "
     },
     {
-      "id": 15,
+      "id": "15",
       "title": "Green Future – Tree Plantation Drive",
       "date": "2025-11-01",
       "venue": "City Park",
@@ -163,9 +163,7 @@
       "image": "https://images.pexels.com/photos/34071090/pexels-photo-34071090.png",
       "video": "https://www.pexels.com/download/video/7944612/",
       "description1": "Plant trees and contribute to a greener, sustainable future in this community-driven initiative. Volunteers will receive guidance on planting, watering, and nurturing saplings. The event promotes environmental awareness, sustainability, and ecological responsibility. Participants will learn about the benefits of trees for air quality, wildlife, and climate. Families, students, and community members can engage in hands-on activities. Interactive sessions will cover planting techniques, tree care, and long-term maintenance. Attendees will connect with like-minded individuals passionate about environmental conservation. Certificates and recognition will be provided to active participants. The drive emphasizes teamwork, community engagement, and a positive impact on the environment. Join us to plant, nurture, and celebrate a greener future together.",
-      "description2":"Green Future – Tree Plantation Drive invites community members to actively participate in reforestation efforts. Attendees will plant saplings in designated areas to improve green cover and promote biodiversity. The initiative educates participants about sustainable practices and environmental stewardship. Volunteers will provide practical demonstrations and instructions for planting and caring for trees. Families and students can collaborate, learn, and experience the joy of giving back to the planet. The event highlights the long-term importance of trees for air, soil, and climate health. Participants will feel a sense of accomplishment and contribution toward a greener world. Interactive discussions will encourage sustainable lifestyles and community involvement. Recognition and appreciation will be given to active volunteers. Join us to make a meaningful difference and support environmental sustainability."
+      "description2": "Green Future – Tree Plantation Drive invites community members to actively participate in reforestation efforts. Attendees will plant saplings in designated areas to improve green cover and promote biodiversity. The initiative educates participants about sustainable practices and environmental stewardship. Volunteers will provide practical demonstrations and instructions for planting and caring for trees. Families and students can collaborate, learn, and experience the joy of giving back to the planet. The event highlights the long-term importance of trees for air, soil, and climate health. Participants will feel a sense of accomplishment and contribution toward a greener world. Interactive discussions will encourage sustainable lifestyles and community involvement. Recognition and appreciation will be given to active volunteers. Join us to make a meaningful difference and support environmental sustainability."
     }
   ]
 }
-
-

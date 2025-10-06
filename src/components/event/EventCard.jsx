@@ -27,7 +27,7 @@ export default function EventCard({ event }) {
           Info
         </button>
         <button
-          onClick={() => navigate('/enroll-participant')}
+          onClick={() => navigate(`/enroll-participant/${event.id}`)}
           className="bg-indigo-600 text-white px-3 py-1 rounded hover:bg-indigo-700"
         >
           Enroll
