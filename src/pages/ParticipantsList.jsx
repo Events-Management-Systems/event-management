@@ -36,7 +36,7 @@ export default function ParticipantsList() {
   };
 
   return (
-    <div className="min-h-screen bg-gray-50 p-6">
+    <div className="min-h-screen bg-gray-50 p-6 pt-18">
       <h1 className="text-2xl font-bold mb-4">Participants List</h1>
 
       <div className="mb-4">

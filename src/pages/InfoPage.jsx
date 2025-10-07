@@ -14,7 +14,7 @@ export default function InfoPage() {
 
   return (
     <>
-      <div className="min-h-screen bg-gray-50 p-6">
+      <div className="min-h-screen bg-gray-50 p-6 pt-15">
       <h2 className="text-2xl font-bold mb-4 text-center">{event.title}</h2>
 
       <div className="flex flex-col md:flex-row gap-6 justify-center mb-6">

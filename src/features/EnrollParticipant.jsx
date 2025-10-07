@@ -73,7 +73,7 @@ export default function EnrollParticipant({ onRegister }) {
       }}
     >
       {({ values }) => (
-        <Form className="max-w-2xl mx-auto p-6 bg-white shadow-md rounded-md mt-6 border border-gray-300">
+        <Form className="max-w-2xl mx-auto p-6 bg-white shadow-md rounded-md mt-12 border border-gray-300">
           <h2 className="text-2xl font-bold mb-4 text-center">Register Participant</h2>
 
           <FieldArray name="participants">
